@@ -1,0 +1,17 @@
+PATH
+  remote: /home/mitsuoka/Documentos/rubygsm
+  specs:
+    rubygsm (0.41)
+      hybridgroup-serialport
+
+GEM
+  remote: https://rubygems.org/
+  remote: http://gems.github.com/
+  specs:
+    hybridgroup-serialport (1.2.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rubygsm!

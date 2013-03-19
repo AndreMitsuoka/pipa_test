@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+source 'http://gems.github.com'
+ 
+#gem 'rubygsm', github: 'AndreMitsuoka/rubygsm'
+
+gem 'rubygsm', :path => '/home/mitsuoka/Documentos/rubygsm'
+
+
+
+
